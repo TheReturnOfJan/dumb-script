@@ -1,0 +1,7 @@
+build/*
+target/*
+migrations/*
+contracts/dumb-script/target/*
+.cache/.cargo/*
+!.gitkeep
+.tmp/
